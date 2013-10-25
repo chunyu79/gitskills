@@ -1,2 +1,3 @@
 modify in the branch 'dev'
 add a new line from branch 'master'
+add a new line from branch 'feature1'
