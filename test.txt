@@ -1,1 +1,2 @@
 modify in the branch 'dev'
+add a new line from branch 'master'
